@@ -7,7 +7,7 @@
 | Challenge | Writeup |
 | --------- | ------- |
 | Emoji     | [Klik hier](Emoji/README.MD)    |  
-| Firewall  | [Klik hier](Firewall/README.MD) |
+| Yara  | [Klik hier](Yara/README.MD) |
 | Firmware  | [Klik hier](Firmware/README.MD)    |
 | Grep      | [Klik hier](Grep/README.MD)    |
 | ICMP      | [Klik hier](ICMP/README.MD)    |
