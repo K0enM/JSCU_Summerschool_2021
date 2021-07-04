@@ -18,6 +18,6 @@ Ondertussen had ik al gegoogled op Emoji encryption en was ik de [Emoji Cypher](
 
 Daarna heb ik die output in [CyberChef](https://gchq.github.io/CyberChef/) gezet en had ik gelijk al het idee dat het hexidecimale code was. Toen ik het dus als Hex decode via `From Hex`, kwam er een tekst uit die er direct als Base64 uit zag. Nadat ik die tekst had gedecodeerd als Base64 via `From Base64` kwam er een set getallen uit. 
 
-Ik wist niet direct wat ik daar mee moest doen, maar doen ik door [CyberChef](https://gchq.github.io/CyberChef/) scrollde kwam ik de optie `From decimal` tegen. Die geprobeerd en daar rolde binaire data uit. Die binaire data gedecodeeerd via `From binary` en daar kwam de flag uit. 
+Ik wist niet direct wat ik daar mee moest doen, maar toen ik door [CyberChef](https://gchq.github.io/CyberChef/) scrollde kwam ik de optie `From decimal` tegen. Die geprobeerd en daar rolde binaire data uit. Die binaire data gedecodeeerd via `From binary` en daar kwam de flag uit. 
 
 Het hele proces van decoderen kan in deze foto gezien worden: ![](solution.png)
