@@ -1,3 +1,15 @@
 # Oplossingen JSCU Summerschool 2021 challenges
 
 ## Door: Koen Molenaar
+
+## Writeups:
+
+| Challenge | Writeup |
+| --------- | ------- |
+| Emoji     | [Klik hier](Emoji/README.MD)    |  
+| Firewall  | [Klik hier](Firewall/README.MD) |
+| Firmware  | [Klik hier](Firmware/README.MD)    |
+| Grep      | [Klik hier](Grep/README.MD)    |
+| ICMP      | [Klik hier](ICMP/README.MD)    |
+| Password Dump | [Klik hier](Password&#32;Dump/README.MD) |
+| Trololo | [Klik hier](Trololo/README.MD) |
